@@ -9,6 +9,7 @@ function App() {
 
   return (
     <>
+      <h1>React Hooks Sandbox Environment</h1>
       <ButtonClick/>
       <BasicEffect/>
     </>
